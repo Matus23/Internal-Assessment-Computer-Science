@@ -1,0 +1,51 @@
+/* CSS Document */
+body {
+  margin:0; 
+  padding:0; 
+  background-color: #CCC; 
+}
+p {
+  padding-top: 25px;
+  font-size: 90%;
+  color: blue;
+}
+
+.login {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  height: 20px;
+  width: 80px
+  color: #7FFFD4;
+}
+.fileTransfer {
+  width: 700px;
+  height: 700px;
+  margin: 10px 200px;
+  background-color: #FFF;
+  border: 5px solid #CCC;
+}
+
+.publishButton {
+  height: 20px;
+  width: 100px;
+  margin: 0px 130px;
+  padding: 10px;
+}
+
+.moveToCenter {
+  position: relative;
+  top: 0%;
+  left: 30%;
+}
+
+.logoutButton {
+  height: 20px;
+  width: 100px;
+  margin: 0px 130px;
+  padding: 10px;
+}
+
